@@ -3,7 +3,7 @@ import os
 import anthropic
 
 client = anthropic.Anthropic(
-    api_key=os.getenv("ANTHROPIC_API_KEY", "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")
+    api_key=os.getenv("ANTHROPIC_API_KEY")
 )
 
 MODEL = "claude-sonnet-4-20250514"
