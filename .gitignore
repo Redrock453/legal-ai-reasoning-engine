@@ -1,8 +1,10 @@
 __pycache__/
 *.pyc
 *.pyo
-.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
 .env
-tokens/
-credentials/
 *.log
+credentials/
+tokens/

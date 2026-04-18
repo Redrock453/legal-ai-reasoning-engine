@@ -1,0 +1,19 @@
+{
+  "name": "legal-tools",
+  "version": "1.0.0",
+  "description": "Legal reasoning and repo tools for opencode",
+  "tools": [
+    {
+      "name": "legal",
+      "description": "Legal reasoning engine - analyze constitutional violations",
+      "input": "task description",
+      "module": "backend.tools.legal_tool"
+    },
+    {
+      "name": "repo",
+      "description": "Git/filesystem operations (read-only)",
+      "input": "action (status/diff/log/files)",
+      "module": "backend.tools.repo_tool"
+    }
+  ]
+}

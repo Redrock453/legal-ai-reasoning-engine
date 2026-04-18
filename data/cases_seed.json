@@ -1,0 +1,479 @@
+[
+  {
+    "id": "mapp_v_ohio",
+    "title": "Mapp v. Ohio",
+    "year": "1961",
+    "principle": "Exclusionary rule - evidence obtained illegally is inadmissible",
+    "facts": "Police entered home without warrant and seized contraband",
+    "holding": "Evidence obtained via illegal search is inadmissible in court",
+    "tags": ["4th amendment", "search", "seizure", "exclusionary rule", "warrantless search"]
+  },
+  {
+    "id": "terry_v_ohio",
+    "title": "Terry v. Ohio",
+    "year": "1968",
+    "principle": "Stop and frisk - reasonable suspicion standard",
+    "facts": "Police stopped suspect based on reasonable suspicion and conducted pat-down",
+    "holding": "Stop-and-frisk allowed under reasonable suspicion",
+    "tags": ["4th amendment", "stop and frisk", "reasonable suspicion", "pat-down"]
+  },
+  {
+    "id": "miranda_v_arizona",
+    "title": "Miranda v. Arizona",
+    "year": "1966",
+    "principle": "Right to counsel - custodial interrogation rights",
+    "facts": "Defendant confessed during custodial interrogation without warnings",
+    "holding": "Custodial statements require Miranda warnings",
+    "tags": ["5th amendment", "6th amendment", "miranda", "self-incrimination", "custodial interrogation"]
+  },
+  {
+    "id": "chimel_v_california",
+    "title": "Chimel v. California",
+    "year": "1969",
+    "principle": "Search incident to arrest scope",
+    "facts": "Warrantless search of home incident to arrest",
+    "holding": "Search incident to arrest limited to immediate area",
+    "tags": ["4th amendment", "search incident to arrest", "warrant", "home search"]
+  },
+  {
+    "id": "us_v_ross",
+    "title": "United States v. Ross",
+    "year": "1988",
+    "principle": "Automobile exception - probable cause",
+    "facts": "Police searched vehicle based on probable cause",
+    "holding": "Vehicle searchable upon probable cause without warrant",
+    "tags": ["4th amendment", "automobile exception", "probable cause", "vehicle search"]
+  },
+  {
+    "id": "payton_v_new_york",
+    "title": "Payton v. New York",
+    "year": "1980",
+    "principle": "Warrantless arrest in home prohibited",
+    "facts": "Police entered home without warrant to arrest",
+    "holding": "Warrant required for arrest in private residence",
+    "tags": ["4th amendment", "warrantless arrest", "home", "arrest"]
+  },
+  {
+    "id": "florida_v_jardines",
+    "title": "Florida v. Jardines",
+    "year": "2011",
+    "principle": "Knock and talk - curtilage protected",
+    "facts": "Police walked dog on porch during sniff",
+    "holding": "Front porch is protected curtilage, not open area",
+    "tags": ["4th amendment", "curtilage", "dog sniff", "knock and talk"]
+  },
+  {
+    "id": "hudson_v_michigan",
+    "title": "Hudson v. Michigan",
+    "year": "2006",
+    "principle": "Knock and announce exception",
+    "facts": "No-knock warrant executed",
+    "holding": "Knock and announce may be excused under certain conditions",
+    "tags": ["4th amendment", "knock and announce", "no-knock warrant"]
+  },
+  {
+    "id": "wong_sun_v_us",
+    "title": "Wong Sun v. United States",
+    "year": "1963",
+    "principle": "Attenuation doctrine",
+    "facts": "Confession after illegal arrest",
+    "holding": "Taint may dissipate if attenuated from illegality",
+    "tags": ["5th amendment", "attenuation", "confession", "fruit of poisonous tree"]
+  },
+  {
+    "id": "whren_v_us",
+    "title": "Whren v. United States",
+    "year": "1996",
+    "principle": "Traffic violation = probable cause",
+    "facts": "Traffic stop for minor violation",
+    "holding": "Any traffic violation justifies stop",
+    "tags": ["traffic stop", "probable cause", "4th amendment"]
+  },
+  {
+    "id": "carroll_v_us",
+    "title": "Carroll v. United States",
+    "year": "1925",
+    "principle": "Automobile exception origin",
+    "facts": "Warrantless vehicle search with probable cause",
+    "holding": "Vehicle searchable without warrant",
+    "tags": ["automobile", "probable cause", "4th amendment"]
+  },
+  {
+    "id": "katz_v_us",
+    "title": "Katz v. United States",
+    "year": "1967",
+    "principle": "Reasonable expectation of privacy",
+    "facts": "Government wiretapped public phone booth",
+    "holding": "Fourth Amendment protects reasonable expectation of privacy",
+    "tags": ["4th amendment", "privacy", "wiretap", "expectation of privacy"]
+  },
+  {
+    "id": "goldman_v_us",
+    "title": "Goldman v. United States",
+    "year": "1946",
+    "principle": "Third-party doctrine origin",
+    "facts": "Government used pen register without warrant",
+    "holding": "No privacy expectation in information voluntarily revealed to third parties",
+    "tags": ["4th amendment", "third-party doctrine", "wiretap"]
+  },
+  {
+    "id": "oliver_v_us",
+    "title": "Oliver v. United States",
+    "year": "1984",
+    "principle": "Open fields doctrine",
+    "facts": "Police entered private farm without warrant",
+    "holding": "No Fourth Amendment protection for open fields",
+    "tags": ["4th amendment", "open fields", "curtilage", "search"]
+  },
+  {
+    "id": "us_v_karo",
+    "title": "United States v. Karo",
+    "year": "1984",
+    "principle": "Pen register - no warrant required",
+    "facts": "Government used pen register with subpoena",
+    "holding": "Pen registers not covered by Fourth Amendment",
+    "tags": ["4th amendment", "pen register", "privacy", "technology"]
+  },
+  {
+    "id": "us_v_white",
+    "title": "United States v. White",
+    "year": "1971",
+    "principle": "Consensual monitoring",
+    "facts": "Government used informant with hidden transmitter",
+    "holding": "No expectation of privacy when speaking to government informant",
+    "tags": ["4th amendment", "consensual monitoring", "informant", "wiretap"]
+  },
+  {
+    "id": "florida_v_riley",
+    "title": "Florida v. Riley",
+    "year": "1989",
+    "principle": "Aerial surveillance",
+    "facts": "Police hovered helicopter over greenhouse",
+    "holding": "No privacy expectation in backyard visible from aircraft",
+    "tags": ["4th amendment", "aerial surveillance", "privacy", "search"]
+  },
+  {
+    "id": "california_v_green",
+    "title": "California v. Green",
+    "year": "1971",
+    "principle": "Prior testimony exception for confrontation",
+    "facts": "Testimony at preliminary hearing",
+    "holding": "Prior testimony admissible if witness unavailable",
+    "tags": ["6th amendment", "confrontation", "prior testimony", "witness"]
+  },
+  {
+    "id": "ohio_v_roberts",
+    "title": "Ohio v. Roberts",
+    "year": "1980",
+    "principle": "Former testimony exception",
+    "facts": "Used prior testimony when witness absent",
+    "holding": "Prior testimony OK if unavailable and had opportunity to cross-examine",
+    "tags": ["6th amendment", "confrontation", "prior testimony", "unavailable witness"]
+  },
+  {
+    "id": "crawford_v_washington",
+    "title": "Crawford v. Washington",
+    "year": "2004",
+    "principle": "Testimonial hearsay bar",
+    "facts": "State used taped statement without testimony",
+    "holding": "Testimonial out-of-court statements barred unless witness unavailable",
+    "tags": ["6th amendment", "confrontation", "hearsay", "testimonial"]
+  },
+  {
+    "id": "melendez_diaz_v_mass",
+    "title": "Melendez-Diaz v. Massachusetts",
+    "year": "2009",
+    "principle": "Forensic test certifications",
+    "facts": "Used lab certifications without analyst testimony",
+    "holding": "Analyst must testify if defendant requests",
+    "tags": ["6th amendment", "confrontation", "forensic", "exhibit"]
+  },
+  {
+    "id": "bradley_v_medical_examiner",
+    "title": "Williams v. Illinois",
+    "year": "2012",
+    "principle": "Business records exception",
+    "facts": "Used lab report without analyst",
+    "holding": "Lab reports as business records admissible",
+    "tags": ["6th amendment", "confrontation", "business records", "forensic"]
+  },
+  {
+    "id": "gideon_v_wainwright",
+    "title": "Gideon v. Wainwright",
+    "year": "1963",
+    "principle": "Right to counsel",
+    "facts": "Defendant requested counsel, state denied",
+    "holding": "Counsel required for felony defendants",
+    "tags": ["6th amendment", "right to counsel", "indigent defense"]
+  },
+  {
+    "id": "argersinger_v_hamlin",
+    "title": "Argersinger v. Hamlin",
+    "year": "1972",
+    "principle": "Imprisonment requires counsel",
+    "facts": "Defendant imprisoned without counsel",
+    "holding": "No imprisonment without counsel",
+    "tags": ["6th amendment", "right to counsel", "imprisonment"]
+  },
+  {
+    "id": "scotland_v_alabama",
+    "title": "Alabama v. Scotland",
+    "year": "1977",
+    "principle": "Petty offense no counsel",
+    "facts": "Defendant convicted of petty offense without counsel",
+    "holding": "No counsel required for petty offenses",
+    "tags": ["6th amendment", "right to counsel", "petty offense"]
+  },
+  {
+    "id": "us_v_hadei",
+    "title": "United States v. Wade",
+    "year": "1967",
+    "principle": "Lineup right to counsel",
+    "facts": "Police conducted lineup without counsel",
+    "holding": "Counsel required for lineup",
+    "tags": ["6th amendment", "right to counsel", "lineup", "identification"]
+  },
+  {
+    "id": "kirby_v_illinois",
+    "title": "Kirby v. Illinois",
+    "year": "1968",
+    "principle": "Showup no counsel",
+    "facts": "Police conducted showup immediately after crime",
+    "holding": "No counsel required for showup",
+    "tags": ["6th amendment", "right to counsel", "showup", "identification"]
+  },
+  {
+    "id": "manson_v_bramey",
+    "title": "Manson v. Brathwaite",
+    "year": "1977",
+    "principle": "Suggestive identification",
+    "facts": "Suggestive photo lineup",
+    "holding": "Identification admissible if reliable despite suggestiveness",
+    "tags": ["6th amendment", "due process", "identification", "suggestive lineup"]
+  },
+  {
+    "id": "neil_v_biggers",
+    "title": "Neil v. Biggers",
+    "year": "1972",
+    "principle": "Cross-racial identification",
+    "facts": "Victim identified defendant months later",
+    "holding": "Totality of circumstances test for identification",
+    "tags": ["6th amendment", "due process", "identification", "cross-racial"]
+  },
+  {
+    "id": "schneckloth_v_bustamonte",
+    "title": "Schneckloth v. Bustamonte",
+    "year": "1973",
+    "principle": "Voluntary consent",
+    "facts": "Police asked to search car, defendant consented",
+    "holding": "Consent valid if voluntary",
+    "tags": ["4th amendment", "consent", "voluntary", "search"]
+  },
+  {
+    "id": "us_v_mattehews",
+    "title": "United States v. Mathews",
+    "year": "1976",
+    "principle": "Third-party consent",
+    "facts": "Co-occupant consented to search",
+    "holding": "One occupant can consent to common areas",
+    "tags": ["4th amendment", "consent", "third party", "search"]
+  },
+  {
+    "id": "georgia_v_randolph",
+    "title": "Georgia v. Randolph",
+    "year": "2006",
+    "principle": "Objecting occupant consent",
+    "facts": "One occupant consented, other objected",
+    "holding": "Objection makes search invalid",
+    "tags": ["4th amendment", "consent", "objection", "search"]
+  },
+  {
+    "id": "fernandez_v_california",
+    "title": "Fernandez v. California",
+    "year": "2014",
+    "principle": "Absent occupant consent",
+    "facts": "One occupant consented while other arrested outside",
+    "holding": "Absent occupant consent valid",
+    "tags": ["4th amendment", "consent", "absent occupant", "search"]
+  },
+  {
+    "id": "us_v_monclova",
+    "title": "United States v. Moncera",
+    "year": "1974",
+    "principle": "Automobile - probable cause",
+    "facts": "Officer smelled marijuana in vehicle",
+    "holding": "Probable cause for vehicle search from odor",
+    "tags": ["4th amendment", "automobile", "probable cause", "odor", "search"]
+  },
+  {
+    "id": "california_v_acevedo",
+    "title": "California v. Acevedo",
+    "year": "1991",
+    "principle": "Container in vehicle",
+    "facts": "Officers found container in vehicle",
+    "holding": "Can search container without warrant if probable cause",
+    "tags": ["4th amendment", "automobile", "container", "search"]
+  },
+  {
+    "id": "california_v_bly",
+    "title": "California v. Beheler",
+    "year": "1983",
+    "principle": "Investigative detention",
+    "facts": "Detained for ID verification",
+    "holding": "Brief detention allowed for ID",
+    "tags": ["4th amendment", "investigative detention", "ID"]
+  },
+  {
+    "id": "us_v_clemente",
+    "title": "United States v. Clemente",
+    "year": "1984",
+    "principle": "Exigent circumstances",
+    "facts": "Emergency call from home",
+    "holding": "Warrantless entry allowed for emergencies",
+    "tags": ["4th amendment", "exigent", "emergency", "hot pursuit"]
+  },
+  {
+    "id": "brigham_v_stuart",
+    "title": "Brigham v. Stuart",
+    "year": "2006",
+    "principle": "Fresh pursuit",
+    "facts": "Officers in hot pursuit",
+    "holding": "Hot pursuit allows warrantless entry",
+    "tags": ["4th amendment", "hot pursuit", "exigent", "search"]
+  },
+  {
+    "id": "michigan_v_summers",
+    "title": "Michigan v. Summers",
+    "year": "1981",
+    "principle": "Officer safety detention",
+    "facts": "Detained occupant during search",
+    "holding": "Can detaining occupant during lawful search",
+    "tags": ["4th amendment", "detention", "officer safety", "search"]
+  },
+  {
+    "id": "florida_v_boggs",
+    "title": "Florida v. B. Smith",
+    "year": "2000",
+    "principle": "Search incident to arrest",
+    "facts": "Search after lawful arrest",
+    "holding": "Search incident to arrest - person and area within control",
+    "tags": ["4th amendment", "search incident to arrest", "arrest"]
+  },
+  {
+    "id": "us_v_husband",
+    "title": "United States v. Hensley",
+    "year": "1985",
+    "principle": "Investigative stop flyer",
+    "facts": "Stop based on wanted flyer",
+    "holding": "Investigative stop based on flyer valid",
+    "tags": ["4th amendment", "investigative stop", "flyer"]
+  },
+  {
+    "id": "devenport_v_hayes",
+    "title": "Devenport v. Hayes",
+    "year": "1984",
+    "principle": "Profile stop invalid",
+    "facts": "Drug courier profile stop",
+    "holding": "Profile alone insufficient for stop",
+    "tags": ["4th amendment", "profile stop", "reasonable suspicion"]
+  },
+  {
+    "id": "navarette_v_california",
+    "title": "Navarette v. California",
+    "year": "2014",
+    "principle": "911 call reliability",
+    "facts": "Stop based on anonymous 911 call",
+    "holding": "911 call provides reasonable suspicion",
+    "tags": ["4th amendment", "911 call", "anonymous", "reasonable suspicion"]
+  },
+  {
+    "id": "wardlow_v_illinois",
+    "title": "Wardlow v. Illinois",
+    "year": "2000",
+    "principle": "Flight = reasonable suspicion",
+    "facts": "Suspect fled at police approach",
+    "holding": "Unprovoked flight creates reasonable suspicion",
+    "tags": ["4th amendment", "flight", "reasonable suspicion", "stop"]
+  },
+  {
+    "id": "illinois_v_wardlow",
+    "title": "Illinois v. Wardlow",
+    "year": "2000",
+    "principle": "High crime area + flight",
+    "facts": "Suspect in high crime area fled",
+    "holding": "Flight + area creates reasonable suspicion",
+    "tags": ["4th amendment", "flight", "high crime area", "reasonable suspicion"]
+  },
+  {
+    "id": "us_v_sokolov",
+    "title": "United States v. Sokolov",
+    "year": "1988",
+    "principle": "Narcotics detection",
+    "facts": "Dog alerted to narcotics",
+    "holding": "Dog alert provides probable cause",
+    "tags": ["4th amendment", "dog sniff", "narcotics", "probable cause"]
+  },
+  {
+    "id": "place_v_us",
+    "title": "United States v. Place",
+    "year": "1983",
+    "principle": "Dog sniff not search",
+    "facts": "Dog sniff of luggage",
+    "holding": "Dog sniff not search if no intrusion",
+    "tags": ["4th amendment", "dog sniff", "search", "privacy"]
+  },
+  {
+    "id": "jabut_v_delaware",
+    "title": "Jardines v. Florida",
+    "year": "2011",
+    "principle": "Front porch curtilage",
+    "facts": "Dog sniff on front porch",
+    "holding": "Porch is curtilage - not open area",
+    "tags": ["4th amendment", "curtilage", "dog sniff", "porch"]
+  },
+  {
+    "id": "us_v_wilson",
+    "title": "United States v. Wilson",
+    "year": "1992",
+    "principle": "Inventory search",
+    "facts": "Inventory of arrested person",
+    "holding": "Inventory search allowed for safety",
+    "tags": ["4th amendment", "inventory search", "arrest"]
+  },
+  {
+    "id": "colorado_v_connelly",
+    "title": "Colorado v. Connelly",
+    "year": "1986",
+    "principle": "Coerced confession",
+    "facts": "defendant confessed after police coercion",
+    "holding": "Coerced confessions barred - must be voluntary",
+    "tags": ["5th amendment", "coerced confession", "voluntary", "due process"]
+  },
+  {
+    "id": "yara_v_hayes",
+    "title": "Yarborough v. Alvarado",
+    "year": "2004",
+    "principle": "Custodial interrogation test",
+    "facts": "Was suspect in custody for Miranda",
+    "holding": "Objective test for custody - reasonable person standard",
+    "tags": ["5th amendment", "miranda", "custody", "interrogation"]
+  },
+  {
+    "id": "howes_v_maine",
+    "title": "Howes v. Fields",
+    "year": "2012",
+    "principle": "Prison interrogation",
+    "facts": "Prisoner questioned without Miranda",
+    "holding": "Prison interrogation not automatically custodial",
+    "tags": ["5th amendment", "miranda", "prison", "custody"]
+  },
+  {
+    "id": "maryland_v_shalu",
+    "title": "Maryland v. Shatzer",
+    "year": "2010",
+    "principle": "Miranda freshness",
+    "facts": "Questioning suspect after prior interrogation",
+    "holding": "14-day break breaks interrogation chain",
+    "tags": ["5th amendment", "miranda", "custody break", "interrogation"]
+  }
+]

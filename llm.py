@@ -1,10 +1,25 @@
 import json
 import os
+import re
+from pathlib import Path
 import anthropic
 
-client = anthropic.Anthropic(
-    api_key=os.getenv("ANTHROPIC_API_KEY")
-)
+env_path = Path(__file__).parent.parent / ".env_legal_ai"
+if env_path.exists():
+    with open(env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#"):
+                match = re.match(r'export\s+(\w+)=(.+)', line)
+                if match:
+                    key, val = match.groups()
+                    os.environ.setdefault(key, val.strip('"'))
+
+api_key = os.getenv("ANTHROPIC_API_KEY")
+if not api_key:
+    raise ValueError("ANTHROPIC_API_KEY not set")
+
+client = anthropic.Anthropic(api_key=api_key)
 
 MODEL = "claude-sonnet-4-20250514"
 
